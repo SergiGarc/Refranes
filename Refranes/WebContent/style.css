@@ -49,3 +49,20 @@ body {
 	border-width: 10px 40px 20px;
 	border-style: dotted solid dashed double;
 }
+
+.grao {
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	clear: both;
+	width: 100%;
+	height: 24px;
+	margin: 0;
+	padding: 4px 0 4px;
+	border-top: black 2px solid;
+	background-color: white;
+	color: black;
+	font-family: sans-serif;
+	font-size: 12.8px;
+	text-align: center;
+}
